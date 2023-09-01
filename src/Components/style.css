@@ -1,0 +1,41 @@
+@media screen and (max-width: 767px) {
+    .programming_mobile_image_responsiveness{
+        order: 2;
+    }
+    .programming_mobile_text_responsiveness{
+        order: 1;
+    }
+  }
+  
+
+  @media screen and (max-width: 767px) {
+    .testimonial_mobile_heading_responsiveness{
+        order: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .testimonial_mobile_text_responsiveness{
+        order: 2;
+        width: 200px;
+    }
+  }
+  
+  @media screen and (max-width: 583px) {
+    .testimonial_mobile_heading_responsiveness{
+        order: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: right;
+    }
+  }
+
+.Enlightening_Tomorrows_Innovators{
+    font-weight: 700!important;
+}
+
+
+
+/* Alignment Change on language */
